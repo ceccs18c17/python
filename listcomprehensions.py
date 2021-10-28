@@ -1,4 +1,4 @@
-X = int(input())
+X = int(input()) #Take input from user (X)
 Y = int(input())
 Z = int(input())
 N = int(input())
